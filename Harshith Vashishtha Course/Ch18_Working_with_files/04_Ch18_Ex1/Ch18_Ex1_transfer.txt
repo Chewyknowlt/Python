@@ -1,0 +1,5 @@
+hamza, 100
+
+wajiha, 200
+
+mahnoor, 300

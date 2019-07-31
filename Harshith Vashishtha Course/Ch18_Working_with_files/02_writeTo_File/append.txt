@@ -1,0 +1,4 @@
+Appending text here
+Hello there!
+To create and write on txt file
+echo -e "Appending text here" >> append.txt

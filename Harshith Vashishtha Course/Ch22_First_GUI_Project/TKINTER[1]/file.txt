@@ -1,0 +1,7 @@
+
+Hamza,hamza@gmial.com,22,Sudent,Male,Yes
+Wajiha,wajihaarain@gmail.com,21,Sudent,Male,Yes
+Hamza,hamzaarain1999@gmail.com,22,Sudent,Male,Yes
+h,ljsdaf,khsdf,Sudent,Male,No
+,,,,Male,No
+hamza,hamza@gmail.com,22,Teacher,Male,Yes

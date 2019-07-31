@@ -1,7 +1,7 @@
 #Python
 
-##Books
+Books:
 * Introduction to Computing Using Python by Ljubomir Perkovic
 * Python Crash Course by Erric Matthes
-##Youtube Channel
+Youtube Channel:
 * Harshit Vashishtha
